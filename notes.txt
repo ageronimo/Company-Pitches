@@ -1,0 +1,48 @@
+do you have an existing app?
+do you have a database? what db?
+what language are you looking for?
+what time frame?
+what kind of data do you want to store?
+who are you trying to serve
+
+Lanakila Meals on Wheels:
+  pitch 1:
+    communiction to clients
+  pitch 2:
+    communication to volunteers
+
+OpTerra: Tori Suarez and Brandon Hayashi
+  talking about hurricanes
+  hawaii isnt ready to import food, gas, other resources | people aren't ready
+  opterra deals with the above
+  solar panels
+  why/how/what
+  215/256 are designated evac centers 
+  5 microgrids on hawaii and maui
+
+
+
+  pitch 1: design best "resilient" school in hawaii
+    design microgrids
+    solar panels, large fans
+    energy independency
+    microgrid: solar panels w/ battery storage
+      energy that can be tapped into during emergencies
+    timeline based on our class
+
+
+    design school
+      ready for emergencies
+      what: 
+        systems
+        policies
+      agencies provide data/information needed to make school
+      piecing good designs/aspects from schools into one school
+
+      further questions > email/phone
+
+    example:
+
+      place generators at predicted areas
+
+    app to monitor where resources are needed, 
